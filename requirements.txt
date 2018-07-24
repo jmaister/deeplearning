@@ -7,3 +7,4 @@ pandas==0.22.0
 scikit-learn==0.19.1
 scipy==1.0.0
 tensorflow==1.8.0
+gym==0.10.5
