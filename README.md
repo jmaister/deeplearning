@@ -10,7 +10,7 @@ Using Keras and Jupyter notebooks.
 
 ```
 conda create --name gym
-conda activate gym`
+conda activate gym
 pip install -r requirements
 ```
 
@@ -36,8 +36,11 @@ Regression to predict Boston Housing price. [Boston Housing Dataset](http://www.
 
 Reinforcement Learning to solve [open.ai gym](http://gym.openai.com) game of the [CartPole-v1](https://gym.openai.com/envs/CartPole-v1/).
 
+## convolution-cifar100
+
+Convolucional Neural Network (CNN, ConvNet) to classify images. Dataset [CIFAR100](https://www.cs.toronto.edu/~kriz/cifar.html) that contains 10 or 100 classes.
+
 ## TODO
 
-### convolution-cifar100
 ### convolution-mnist
 ### lstm-reuters
